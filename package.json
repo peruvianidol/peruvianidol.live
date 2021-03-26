@@ -1,0 +1,24 @@
+{
+  "name": "peruvianidol.live",
+  "version": "1.0.0",
+  "description": "Redirect to Twitch",
+  "baseUrl": "https://peruvianidol.live",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peruvianidol/peruvianidol.live.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peruvianidol/peruvianidol.live/issues"
+  },
+  "homepage": "https://github.com/peruvianidol/peruvianidol.live#readme",
+  "devDependencies": {
+    "netlify-shortener": "^2.3.0"
+  }
+}
